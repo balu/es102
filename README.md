@@ -1,6 +1,6 @@
 # Examples for Introduction to Computing
 
-This repository contains example programs used in the course ["Introduction to Computing"][https://bkomarath.rbgo.in/teaching/es102.html] at IIT Gandhinagar.
+This repository contains example programs used in the course ["Introduction to Computing"](https://bkomarath.rbgo.in/teaching/es102.html) at IIT Gandhinagar.
 
 # Installation
 
